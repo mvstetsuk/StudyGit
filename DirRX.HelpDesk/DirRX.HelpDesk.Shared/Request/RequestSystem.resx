@@ -82,4 +82,7 @@
   <data name="Property_Responsible" xml:space="preserve">
     <value>Ответственный</value>
   </data>
+  <data name="Property_Company" xml:space="preserve">
+    <value>Заказчик</value>
+  </data>
 </root>

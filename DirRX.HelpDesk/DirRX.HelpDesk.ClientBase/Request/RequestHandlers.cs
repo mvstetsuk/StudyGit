@@ -7,8 +7,4 @@ using DirRX.HelpDesk.Request;
 
 namespace DirRX.HelpDesk
 {
-  partial class RequestClientHandlers
-  {
-
-  }
 }

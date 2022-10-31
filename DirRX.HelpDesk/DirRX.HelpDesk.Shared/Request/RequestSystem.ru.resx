@@ -61,10 +61,4 @@
   <data name="Property_Name" xml:space="preserve">
     <value>Имя</value>
   </data>
-  <data name="DisplayName" xml:space="preserve">
-    <value>Обращение</value>
-  </data>
-  <data name="CollectionDisplayName" xml:space="preserve">
-    <value>Обращения</value>
-  </data>
 </root>
