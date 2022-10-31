@@ -25,6 +25,11 @@
     "Tabs": []
   },
   "DesktopViews": [],
+  "ExplorerTreeOrder": [
+    {
+      "ItemId": "4cdd9c26-e8b6-4229-a4db-1b093526cb75"
+    }
+  ],
   "IconResourcesKeys": [],
   "Importance": "Medium",
   "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
