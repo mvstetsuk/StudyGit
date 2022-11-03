@@ -27,7 +27,8 @@
   "DesktopViews": [],
   "ExplorerTreeOrder": [
     {
-      "ItemId": "4cdd9c26-e8b6-4229-a4db-1b093526cb75"
+      "ItemId": "6ab826d0-c66c-47d7-9048-2a7c2c119737",
+      "PreviousItemId": "4cdd9c26-e8b6-4229-a4db-1b093526cb75"
     }
   ],
   "IconResourcesKeys": [],
