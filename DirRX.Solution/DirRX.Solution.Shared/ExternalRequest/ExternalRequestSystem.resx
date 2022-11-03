@@ -73,4 +73,7 @@
   <data name="Property_Result" xml:space="preserve">
     <value>Результат</value>
   </data>
+  <data name="AdditionalInfoTemplate" xml:space="preserve">
+    <value>Внешнее обращение Заказчика </value>
+  </data>
 </root>
