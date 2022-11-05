@@ -70,7 +70,4 @@
   <data name="CollectionDisplayName" xml:space="preserve">
     <value>Types requests</value>
   </data>
-  <data name="Property_LinkDocument" xml:space="preserve">
-    <value>LinkDocument</value>
-  </data>
 </root>
