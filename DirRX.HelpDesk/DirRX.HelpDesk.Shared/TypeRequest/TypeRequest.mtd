@@ -46,7 +46,12 @@
     }
   ],
   "IconResourcesKeys": [],
+  "IsStatusEnabled": true,
   "OperationsClass": "",
+  "Overridden": [
+    "IsStatusEnabled",
+    "HideFromCreationArea"
+  ],
   "Properties": [
     {
       "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",

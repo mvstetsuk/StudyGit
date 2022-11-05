@@ -30,6 +30,11 @@
       "IsSolutionModule": true,
       "MaxVersion": "",
       "MinVersion": ""
+    },
+    {
+      "Id": "243b34ec-8425-4c7e-b66f-27f7b9c8f38d",
+      "MaxVersion": "",
+      "MinVersion": "4.4.52.0"
     }
   ],
   "ExplorerTreeOrder": [
@@ -43,12 +48,19 @@
     {
       "ItemId": "471cde7d-c0f5-45a8-b71e-d63fac8033a6",
       "PreviousItemId": "13a0285d-3964-4926-8a8a-7e211025e996"
+    },
+    {
+      "ItemId": "3a58de0d-4d43-4899-b444-d0d1599a228f",
+      "PreviousItemId": "471cde7d-c0f5-45a8-b71e-d63fac8033a6"
     }
   ],
   "IconResourcesKeys": [],
   "Importance": "Medium",
   "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
   "InterfaceNamespace": "DirRX.HelpDesk",
+  "Overridden": [
+    "IsLicensed"
+  ],
   "PublicStructures": [],
   "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
   "ResourceInterfaceNamespace": "DirRX.HelpDesk",
@@ -58,7 +70,7 @@
   "SharedAssemblyName": "DirRX.HelpDesk.Shared",
   "SharedNamespace": "DirRX.HelpDesk.Shared",
   "SpecialFolders": [],
-  "Version": "0.0.1.0",
+  "Version": "0.0.2.0",
   "Widgets": [],
   "Versions": [
     {

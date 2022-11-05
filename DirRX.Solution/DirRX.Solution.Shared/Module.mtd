@@ -7,7 +7,7 @@
   "ClientBaseAssemblyName": "DirRX.Solution.ClientBase",
   "ClientBaseNamespace": "DirRX.Solution.ClientBase",
   "ClientNamespace": "DirRX.Solution.Client",
-  "Code": "Solutio",
+  "Code": "HD",
   "CompanyCode": "DirRX",
   "Cover": {
     "NameGuid": "7def639a-1e57-416b-8e0b-e2edc459ba59",
@@ -24,6 +24,13 @@
     },
     "Tabs": []
   },
+  "Dependencies": [
+    {
+      "Id": "243b34ec-8425-4c7e-b66f-27f7b9c8f38d",
+      "MaxVersion": "",
+      "MinVersion": "4.4.52.0"
+    }
+  ],
   "DesktopViews": [],
   "ExplorerTreeOrder": [
     {
@@ -45,7 +52,7 @@
   "SharedAssemblyName": "DirRX.Solution.Shared",
   "SharedNamespace": "DirRX.Solution.Shared",
   "SpecialFolders": [],
-  "Version": "0.0.1.0",
+  "Version": "0.0.2.0",
   "Widgets": [],
   "Versions": [
     {

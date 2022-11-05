@@ -74,7 +74,7 @@
     <value>Номер обращения</value>
   </data>
   <data name="Property_Description" xml:space="preserve">
-    <value>Описание</value>
+    <value>Description</value>
   </data>
   <data name="Property_CreatedDate" xml:space="preserve">
     <value>Дата создания</value>
@@ -84,5 +84,11 @@
   </data>
   <data name="Property_Company" xml:space="preserve">
     <value>Заказчик</value>
+  </data>
+  <data name="Form_8d2b1b718f224225bc881f7911589b87" xml:space="preserve">
+    <value>Page</value>
+  </data>
+  <data name="ControlGroup_06ab64449a204d4ebb92a3378c3c9df4" xml:space="preserve">
+    <value />
   </data>
 </root>
